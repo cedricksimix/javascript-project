@@ -199,14 +199,14 @@ for (let i = 0; i <= 10; i++) {
 
 */
 
-let first_Name = "cedrick";
+/*let first_Name = "cedrick";
 let second_Name = "simwa";
 let address = "main street";
 let address2 = "first street";
 console.log(first_Name);
 console.log(second_Name);
 console.log(address);
-console.log(address2);
+console.log(address2);*/
 
 /*
 ## Concatenate Strings #2
