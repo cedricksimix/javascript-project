@@ -1,0 +1,22 @@
+.book {
+  display: flex;
+  margin-bottom: 20px;
+}
+.book img {
+  width: 100px;
+  height: 150px;
+  margin-right: 10px;
+}
+.book-info {
+  display: flex;
+  flex-direction: column;
+}
+.book-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.book-author {
+  font-size: 14px;
+  color: #888;
+}
